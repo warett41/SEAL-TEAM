@@ -10,4 +10,4 @@ Kode Tutorial :
     ls
     cd SelfBot
     ls
-    python2 New.py
+    python2 new.py
